@@ -17,7 +17,7 @@ Use for download literally EVERYTHING in the URL.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sets timeout for each download.
 6) Redownload failed files.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Redownloads every fail to download file in lastest downloads.
-7) Exit.
+7) Exit.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Closes this script.
 
 P.S. This projected is still unfinished. There is still some FATAL bug, which I already acknowledge them and I will fix them later.
